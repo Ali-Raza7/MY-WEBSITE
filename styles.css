@@ -662,19 +662,3 @@ font-size: smaller
     width: 3%;
 }
 
-body {
-    font-family: Arial, sans-serif;
-  }
-
-  @media screen and (max-width: 600px) {
-    body {
-      font-size: 16px;
-    }
-  }
-
- 
-  @media screen and (max-width: 400px) {
-    body {
-      font-size: 14px;
-    }
-  }
