@@ -680,11 +680,12 @@ font-size: smaller
     border: none; 
     border-radius: 10px; 
     cursor: pointer; 
-   color: white;
+    color: white;
     box-shadow: 0px 2px 2px #353645; 
-     position: absolute;
+    position: absolute;
     bottom: 18%;
     left: 43%;
+    text-decoration: none;
   }
   
   
