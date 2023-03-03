@@ -674,3 +674,22 @@ font-size: smaller
     width: 3%;
 }
 
+.click-me-button {
+    background-color: #F3B323; 
+    padding: 12px 24px; 
+    border: none; 
+    border-radius: 10px; 
+    cursor: pointer; 
+   color: white;
+    box-shadow: 0px 2px 2px #353645; 
+     position: absolute;
+    bottom: 18%;
+    left: 43%;
+  }
+  
+  
+  .click-me-button:hover {
+    background-color: #000000; 
+    box-shadow: 0px 4px 4px #F3B323;
+   
+  }
